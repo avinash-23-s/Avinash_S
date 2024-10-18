@@ -9,7 +9,7 @@ Eclipse IDE or any Java IDE of your choice
 Maven (optional, for dependency management)
 Installation
 Clone the repository:
-git clone https://github.com/avinash-23-s/RuleEngineWeatherMonitoring.git
+git clone https://github.com/avinash-23-s/Avinash_S.git
 Usage
 Run the Main class to test the Rule Engine.
 For the Weather Monitoring System, implement the necessary API calls and data processing as described in the assignment.
